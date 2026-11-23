@@ -2,6 +2,8 @@
 
 A [Pengu Loader](https://pengu.lol) plugin that lets you remove many League friends, or decline many friend requests, at once. The client normally only does this one person at a time.
 
+![Preview](screenshots/preview.png)
+
 ## Features
 
 - A new button in the social panel, next to the add friend and folder buttons
@@ -14,8 +16,8 @@ Discord contacts that aren't League friends are not listed, since they can't be 
 
 ## Install
 
-1. Download this repo as a zip, or clone it.
-2. Copy the `friend-cleaner` folder into your Pengu Loader `plugins` folder. You can open it by pressing Ctrl+K in the client and picking "Open plugins folder".
+1. Download `friend-cleaner.zip` from the [latest release](../../releases/latest).
+2. Extract the `friend-cleaner` folder into your Pengu Loader `plugins` folder. You can open it by pressing Ctrl+K in the client and picking "Open plugins folder".
 3. Restart the League client.
 
 ## Usage
